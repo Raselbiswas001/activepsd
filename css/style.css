@@ -99,9 +99,11 @@ header{
     color: #ffffff;
     background-color: #e84545;
 }
-.b_btn:hover{
+.b_btn:hover {
+    box-shadow: none;
     color: #e84545;
-    background-color: #ffffff; 
+    background-color: #ffffff;
+    outline: 0;
 }
 
 /*banner end*/
