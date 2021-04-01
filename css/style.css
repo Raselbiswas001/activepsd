@@ -98,6 +98,7 @@ header{
     cursor: pointer;
     color: #ffffff;
     background-color: #e84545;
+    transition: .4s;
 }
 .b_btn:hover {
     box-shadow: none;
@@ -299,6 +300,7 @@ header{
     background-color: #e84545;
     box-shadow: none;
     outline: 0;
+    transition: .4s;
 }
 .d_btn:hover{
     box-shadow: none;
