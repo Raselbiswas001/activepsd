@@ -295,10 +295,14 @@ header{
     width: 280px;
     color: #fff;
     background-color: #e84545;
+    box-shadow: none;
+    outline: 0;
 }
 .d_btn:hover{
+    box-shadow: none;
     color: #e84545;
-    background-color: #ffffff; 
+    background-color: #ffffff;
+    outline: 0;
 }
 /*download end*/
 
@@ -331,6 +335,10 @@ header{
     line-height: 29px;
     cursor: pointer;
     transition: .4s;
+}
+.c_icon li i:hover{
+        color: #6c7279;
+    background-color: #ffffff;
 }
 .c_location{}
 
